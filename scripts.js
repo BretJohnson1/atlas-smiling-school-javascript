@@ -273,7 +273,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Fetch data and populate UI
     const fetchAndRenderData = () => {
-        // Show loader
         loader.show();
         videoCardsContainer.empty();
 
